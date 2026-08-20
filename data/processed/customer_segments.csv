@@ -1,0 +1,268 @@
+customer_id,customer_name,region,last_purchase_date,order_count,total_revenue,total_profit,recency_days,frequency,monetary,r_score,f_score,m_score,rfm_score,segment
+118,Customer_0118,North Africa,2024-09-07,5,2545.55,216.58999999999997,115,5,2545.55,2,5,5,255,At Risk
+154,Customer_0154,North Africa,2024-08-18,4,2184.75,602.68,135,4,2184.75,2,5,5,255,At Risk
+259,Customer_0259,Southern Europe,2024-07-26,5,2038.77,261.69,158,5,2038.77,2,5,5,255,At Risk
+190,Customer_0190,Southern Europe,2024-04-21,4,2024.68,771.74,254,4,2024.68,1,5,5,155,At Risk
+96,Customer_0096,Central Europe,2024-06-03,3,2004.71,591.4399999999999,211,3,2004.71,2,4,5,245,At Risk
+143,Customer_0143,Southern Europe,2024-08-15,3,1934.1,514.41,138,3,1934.1,2,4,5,245,At Risk
+208,Customer_0208,North Africa,2024-07-06,3,1905.3600000000001,419.57,178,3,1905.36,2,4,5,245,At Risk
+285,Customer_0285,Southern Europe,2024-09-07,4,1887.91,646.0,115,4,1887.91,2,5,5,255,At Risk
+164,Customer_0164,Central Europe,2024-03-17,3,1871.33,204.90000000000003,289,3,1871.33,1,4,5,145,At Risk
+122,Customer_0122,Central Europe,2024-08-14,3,1769.92,513.11,139,3,1769.92,2,4,5,245,At Risk
+131,Customer_0131,Southern Europe,2024-09-11,3,1702.7,710.66,111,3,1702.7,2,4,5,245,At Risk
+229,Customer_0229,Western Europe,2024-06-09,5,1657.99,547.14,205,5,1657.99,2,5,4,254,At Risk
+75,Customer_0075,Southern Europe,2024-06-29,3,1543.16,318.87999999999994,185,3,1543.16,2,3,4,234,At Risk
+243,Customer_0243,Western Europe,2024-09-01,3,1510.5,410.44000000000005,121,3,1510.5,2,4,4,244,At Risk
+273,Customer_0273,Central Europe,2024-07-13,4,1502.64,195.17,171,4,1502.64,2,5,4,254,At Risk
+69,Customer_0069,Central Europe,2024-03-30,5,1499.0,200.98999999999998,276,5,1499.0,1,5,4,154,At Risk
+6,Customer_0006,Southern Europe,2024-06-22,3,1482.94,349.57,192,3,1482.94,2,3,4,234,At Risk
+157,Customer_0157,North Africa,2024-07-17,3,1461.79,459.43,167,3,1461.79,2,4,4,244,At Risk
+247,Customer_0247,Southern Europe,2024-07-16,5,1390.73,327.67,168,5,1390.73,2,5,4,254,At Risk
+214,Customer_0214,Southern Europe,2024-02-10,3,1365.54,126.31000000000003,325,3,1365.54,1,4,4,144,At Risk
+187,Customer_0187,North Africa,2024-05-31,5,1296.6599999999999,49.39,214,5,1296.66,1,5,4,154,At Risk
+239,Customer_0239,Southern Europe,2024-08-12,4,1289.61,66.19000000000001,141,4,1289.61,2,5,4,254,At Risk
+207,Customer_0207,Central Europe,2024-01-14,2,1222.84,183.43,352,2,1222.84,1,3,4,134,At Risk
+258,Customer_0258,North Africa,2024-05-11,2,1209.27,307.67,234,2,1209.27,1,3,4,134,At Risk
+147,Customer_0147,Central Europe,2024-08-24,4,1203.24,307.37,129,4,1203.24,2,5,4,254,At Risk
+223,Customer_0223,Southern Europe,2024-09-07,4,1162.18,189.84,115,4,1162.18,2,5,4,254,At Risk
+84,Customer_0084,Western Europe,2024-08-11,3,1153.46,383.22999999999996,142,3,1153.46,2,4,4,244,At Risk
+100,Customer_0100,Southern Europe,2024-04-23,3,1147.68,201.01,252,3,1147.68,1,4,4,144,At Risk
+197,Customer_0197,Southern Europe,2024-06-08,2,1142.46,243.70000000000002,206,2,1142.46,2,3,4,234,At Risk
+129,Customer_0129,Western Europe,2024-09-12,3,1081.68,44.73999999999999,110,3,1081.68,2,4,3,243,At Risk
+296,Customer_0296,Western Europe,2024-05-26,2,991.92,492.04,219,2,991.92,1,3,3,133,At Risk
+215,Customer_0215,Central Europe,2024-05-31,4,941.52,-202.64000000000001,214,4,941.52,2,5,3,253,At Risk
+216,Customer_0216,Southern Europe,2024-04-24,2,926.6899999999999,467.7,251,2,926.69,1,3,3,133,At Risk
+283,Customer_0283,Southern Europe,2024-07-01,2,902.64,135.04,183,2,902.64,2,3,3,233,At Risk
+251,Customer_0251,North Africa,2024-06-20,2,869.7,-73.23000000000002,194,2,869.7,2,3,3,233,At Risk
+256,Customer_0256,Central Europe,2024-08-26,2,726.5,206.53,127,2,726.5,2,3,3,233,At Risk
+282,Customer_0282,Western Europe,2024-06-04,2,712.08,180.12,210,2,712.08,2,3,3,233,At Risk
+242,Customer_0242,Western Europe,2024-05-12,3,710.27,-220.98000000000002,233,3,710.27,1,4,3,143,At Risk
+265,Customer_0265,Southern Europe,2024-04-06,2,695.5,289.42,269,2,695.5,1,3,3,133,At Risk
+294,Customer_0294,Western Europe,2024-08-04,4,664.6800000000001,82.47,149,4,664.68,2,5,2,252,At Risk
+10,Customer_0010,Southern Europe,2024-07-04,3,581.94,-405.75,180,3,581.94,2,3,2,232,At Risk
+163,Customer_0163,Southern Europe,2024-05-16,2,563.88,73.65,229,2,563.88,1,3,2,132,At Risk
+267,Customer_0267,Southern Europe,2024-08-20,2,499.32,-324.95,133,2,499.32,2,3,2,232,At Risk
+194,Customer_0194,North Africa,2024-03-24,2,457.17999999999995,-140.98,282,2,457.18,1,3,2,132,At Risk
+188,Customer_0188,Central Europe,2024-09-01,2,377.21000000000004,62.36,121,2,377.21,2,3,1,231,At Risk
+13,Customer_0013,Southern Europe,2024-12-15,5,4569.13,1568.89,16,5,4569.13,5,5,5,555,Champions
+39,Customer_0039,North Africa,2024-11-13,8,4170.93,705.75,48,8,4170.93,4,5,5,455,Champions
+152,Customer_0152,North Africa,2024-12-30,6,3933.87,1111.51,1,6,3933.87,5,5,5,555,Champions
+144,Customer_0144,Western Europe,2024-11-01,7,3122.2599999999998,845.6500000000001,60,7,3122.26,4,5,5,455,Champions
+76,Customer_0076,Southern Europe,2024-10-28,4,3064.04,765.4100000000001,64,4,3064.04,4,4,5,445,Champions
+277,Customer_0277,Central Europe,2024-12-24,6,2697.75,453.17,7,6,2697.75,5,5,5,555,Champions
+113,Customer_0113,Southern Europe,2024-11-05,6,2692.89,244.46,56,6,2692.89,4,5,5,455,Champions
+126,Customer_0126,Western Europe,2024-11-18,6,2689.62,376.86,43,6,2689.62,4,5,5,455,Champions
+130,Customer_0130,Southern Europe,2024-11-07,4,2663.73,850.26,54,4,2663.73,4,5,5,455,Champions
+231,Customer_0231,North Africa,2024-11-11,5,2585.08,550.47,50,5,2585.08,4,5,5,455,Champions
+160,Customer_0160,Western Europe,2024-12-29,4,2479.02,558.5799999999999,2,4,2479.02,5,5,5,555,Champions
+165,Customer_0165,Southern Europe,2024-11-12,4,2437.71,683.05,49,4,2437.71,4,5,5,455,Champions
+1,Customer_0001,Southern Europe,2024-12-22,8,2381.09,-26.809999999999988,9,8,2381.09,5,5,5,555,Champions
+233,Customer_0233,Southern Europe,2024-12-28,6,2354.99,922.75,3,6,2354.99,5,5,5,555,Champions
+192,Customer_0192,Southern Europe,2024-11-06,4,2324.07,639.45,55,4,2324.07,4,5,5,455,Champions
+58,Customer_0058,North Africa,2024-11-24,4,2323.97,642.86,37,4,2323.97,4,4,5,445,Champions
+99,Customer_0099,Southern Europe,2024-11-30,7,2322.56,324.51,31,7,2322.56,5,5,5,555,Champions
+5,Customer_0005,Southern Europe,2024-11-25,6,2288.27,364.5,36,6,2288.27,4,5,5,455,Champions
+172,Customer_0172,Southern Europe,2024-12-02,3,2166.27,695.7,29,3,2166.27,5,4,5,545,Champions
+101,Customer_0101,Central Europe,2024-12-28,4,2164.7,804.36,3,4,2164.7,5,4,5,545,Champions
+180,Customer_0180,Southern Europe,2024-11-29,5,2036.16,166.15000000000003,32,5,2036.16,5,5,5,555,Champions
+136,Customer_0136,Southern Europe,2024-12-02,3,1983.23,548.97,29,3,1983.23,5,4,5,545,Champions
+49,Customer_0049,Southern Europe,2024-12-12,4,1947.59,602.17,19,4,1947.59,5,4,5,545,Champions
+286,Customer_0286,Southern Europe,2024-11-21,6,1909.46,340.0,40,6,1909.46,4,5,5,455,Champions
+289,Customer_0289,Southern Europe,2024-12-29,4,1892.6499999999999,596.01,2,4,1892.65,5,5,5,555,Champions
+86,Customer_0086,North Africa,2024-12-27,3,1823.78,290.68,4,3,1823.78,5,4,5,545,Champions
+145,Customer_0145,Western Europe,2024-11-27,5,1820.58,424.73,34,5,1820.58,4,5,5,455,Champions
+236,Customer_0236,North Africa,2024-11-23,3,1798.37,464.47,38,3,1798.37,4,4,5,445,Champions
+38,Customer_0038,North Africa,2024-12-06,5,1733.67,564.6700000000001,25,5,1733.67,5,5,5,555,Champions
+54,Customer_0054,North Africa,2024-10-28,5,1703.29,355.76,64,5,1703.29,4,5,5,455,Champions
+238,Customer_0238,Southern Europe,2024-12-10,3,1656.04,610.51,21,3,1656.04,5,4,4,544,Champions
+249,Customer_0249,Southern Europe,2024-12-21,3,1600.3799999999999,95.66999999999999,10,3,1600.38,5,4,4,544,Champions
+36,Customer_0036,Southern Europe,2024-10-28,4,1561.05,339.5,64,4,1561.05,4,4,4,444,Champions
+271,Customer_0271,Western Europe,2024-12-14,3,1497.46,247.19,17,3,1497.46,5,4,4,544,Champions
+134,Customer_0134,Southern Europe,2024-11-05,4,1481.31,19.16000000000001,56,4,1481.31,4,5,4,454,Champions
+81,Customer_0081,Southern Europe,2024-12-20,4,1472.98,542.39,11,4,1472.98,5,4,4,544,Champions
+288,Customer_0288,Western Europe,2024-11-19,3,1438.24,659.26,42,3,1438.24,4,4,4,444,Champions
+173,Customer_0173,North Africa,2024-12-09,4,1428.52,241.39,22,4,1428.52,5,5,4,554,Champions
+168,Customer_0168,Western Europe,2024-11-06,3,1414.58,196.34,55,3,1414.58,4,4,4,444,Champions
+252,Customer_0252,Central Europe,2024-11-13,5,1359.54,114.2,48,5,1359.54,4,5,4,454,Champions
+133,Customer_0133,Central Europe,2024-11-02,5,1350.58,28.789999999999992,59,5,1350.58,4,5,4,454,Champions
+53,Customer_0053,Western Europe,2024-12-26,5,1339.82,237.64,5,5,1339.82,5,5,4,554,Champions
+218,Customer_0218,Central Europe,2024-11-06,4,1212.1799999999998,319.74,55,4,1212.18,4,5,4,454,Champions
+104,Customer_0104,Southern Europe,2024-11-26,4,1176.8600000000001,-156.37,35,4,1176.86,4,5,4,454,Champions
+292,Customer_0292,Central Europe,2024-12-08,3,1122.04,121.96,23,3,1122.04,5,4,4,544,Champions
+62,Customer_0062,Southern Europe,2024-07-27,2,2024.91,575.48,157,2,2024.91,2,2,5,225,Lost Customers
+153,Customer_0153,Central Europe,2024-04-26,2,1609.9099999999999,533.9799999999999,249,2,1609.91,1,2,4,124,Lost Customers
+112,Customer_0112,Central Europe,2024-09-26,2,1573.32,415.28,96,2,1573.32,3,2,4,324,Lost Customers
+135,Customer_0135,Western Europe,2024-04-29,2,1503.8,427.75,246,2,1503.8,1,2,4,124,Lost Customers
+117,Customer_0117,Southern Europe,2024-08-14,2,1341.47,324.41,139,2,1341.47,2,2,4,224,Lost Customers
+107,Customer_0107,Southern Europe,2024-08-12,2,1301.54,296.08,141,2,1301.54,2,2,4,224,Lost Customers
+108,Customer_0108,Southern Europe,2024-09-24,2,1300.82,-52.960000000000036,98,2,1300.82,3,2,4,324,Lost Customers
+139,Customer_0139,Western Europe,2024-09-20,1,1100.9,52.88000000000001,102,1,1100.9,3,1,3,313,Lost Customers
+7,Customer_0007,Southern Europe,2024-09-27,2,1023.96,343.77,95,2,1023.96,3,2,3,323,Lost Customers
+43,Customer_0043,Western Europe,2024-08-30,2,946.8,84.67,123,2,946.8,2,2,3,223,Lost Customers
+128,Customer_0128,Southern Europe,2024-06-21,2,944.1600000000001,228.5,193,2,944.16,2,2,3,223,Lost Customers
+29,Customer_0029,Central Europe,2024-10-17,2,939.24,112.85000000000001,75,2,939.24,3,2,3,323,Lost Customers
+30,Customer_0030,Central Europe,2024-08-08,1,905.6400000000001,326.07,145,1,905.64,2,1,3,213,Lost Customers
+93,Customer_0093,Central Europe,2024-08-07,2,898.4399999999999,125.14999999999999,146,2,898.44,2,2,3,223,Lost Customers
+67,Customer_0067,Southern Europe,2024-03-29,1,879.42,459.1,277,1,879.42,1,1,3,113,Lost Customers
+140,Customer_0140,North Africa,2024-10-27,2,767.56,277.07,65,2,767.56,3,2,3,323,Lost Customers
+68,Customer_0068,North Africa,2024-08-02,1,759.5999999999999,251.92000000000002,151,1,759.6,2,1,3,213,Lost Customers
+240,Customer_0240,Western Europe,2024-01-25,1,752.13,246.86999999999998,341,1,752.13,1,2,3,123,Lost Customers
+48,Customer_0048,Southern Europe,2024-08-11,2,729.64,-40.64000000000002,142,2,729.64,2,2,3,223,Lost Customers
+297,Customer_0297,Central Europe,2024-05-23,1,725.06,128.89,222,1,725.06,1,2,3,123,Lost Customers
+52,Customer_0052,Western Europe,2024-10-21,2,722.8199999999999,206.17000000000002,71,2,722.82,3,2,3,323,Lost Customers
+33,Customer_0033,Southern Europe,2024-06-07,2,712.62,135.53,207,2,712.62,2,2,3,223,Lost Customers
+115,Customer_0115,Southern Europe,2024-06-08,1,699.6600000000001,295.90999999999997,206,1,699.66,2,1,3,213,Lost Customers
+159,Customer_0159,Western Europe,2024-10-08,1,690.78,255.58,84,1,690.78,3,1,2,312,Lost Customers
+166,Customer_0166,North Africa,2024-06-21,1,680.4,82.28,193,1,680.4,2,1,2,212,Lost Customers
+263,Customer_0263,Southern Europe,2024-01-12,1,678.36,116.89000000000001,354,1,678.36,1,2,2,122,Lost Customers
+300,Customer_0300,Southern Europe,2024-02-08,1,677.7,315.04,327,1,677.7,1,2,2,122,Lost Customers
+22,Customer_0022,Southern Europe,2024-10-14,3,666.45,83.5,78,3,666.45,3,3,2,332,Lost Customers
+177,Customer_0177,Southern Europe,2024-10-15,2,658.45,274.68,77,2,658.45,3,3,2,332,Lost Customers
+2,Customer_0002,Southern Europe,2024-04-29,1,654.36,46.08,246,1,654.36,1,1,2,112,Lost Customers
+156,Customer_0156,Southern Europe,2024-04-30,2,642.09,90.34,245,2,642.09,1,2,2,122,Lost Customers
+41,Customer_0041,Southern Europe,2024-07-20,1,625.5,125.0,164,1,625.5,2,1,2,212,Lost Customers
+132,Customer_0132,Central Europe,2024-06-09,1,609.3900000000001,253.57999999999998,205,1,609.39,2,1,2,212,Lost Customers
+91,Customer_0091,Southern Europe,2024-02-27,1,605.26,146.62,308,1,605.26,1,1,2,112,Lost Customers
+176,Customer_0176,Western Europe,2024-05-31,1,598.95,117.82,214,1,598.95,1,1,2,112,Lost Customers
+171,Customer_0171,Southern Europe,2024-10-01,1,574.5600000000001,-5.280000000000001,91,1,574.56,3,1,2,312,Lost Customers
+161,Customer_0161,Central Europe,2024-10-14,2,573.69,76.65,78,2,573.69,3,3,2,332,Lost Customers
+138,Customer_0138,North Africa,2024-06-23,1,559.8,141.31,191,1,559.8,2,1,2,212,Lost Customers
+174,Customer_0174,Southern Europe,2024-10-11,1,558.09,-194.93,81,1,558.09,3,1,2,312,Lost Customers
+88,Customer_0088,Southern Europe,2024-04-22,1,548.88,225.85000000000002,253,1,548.88,1,1,2,112,Lost Customers
+8,Customer_0008,Western Europe,2024-07-23,2,547.38,-20.49000000000001,161,2,547.38,2,2,2,222,Lost Customers
+97,Customer_0097,Southern Europe,2024-10-17,2,517.0,135.05,75,2,517.0,3,2,2,322,Lost Customers
+200,Customer_0200,Central Europe,2024-10-07,1,512.44,167.24,85,1,512.44,3,1,2,312,Lost Customers
+61,Customer_0061,Central Europe,2024-10-08,1,501.36,180.42,84,1,501.36,3,1,2,312,Lost Customers
+66,Customer_0066,Southern Europe,2024-03-27,1,499.05,100.66,279,1,499.05,1,1,2,112,Lost Customers
+74,Customer_0074,North Africa,2024-01-04,1,488.64,221.68,362,1,488.64,1,1,2,112,Lost Customers
+155,Customer_0155,Western Europe,2024-07-11,1,486.0,108.36000000000001,173,1,486.0,2,1,2,212,Lost Customers
+186,Customer_0186,Central Europe,2024-03-12,1,478.17,-165.6,294,1,478.17,1,1,2,112,Lost Customers
+221,Customer_0221,Central Europe,2024-05-13,1,464.38,-43.09,232,1,464.38,1,2,2,122,Lost Customers
+109,Customer_0109,Southern Europe,2024-06-23,2,459.44,145.95999999999998,191,2,459.44,2,2,2,222,Lost Customers
+110,Customer_0110,Southern Europe,2024-03-17,1,456.9,82.83,289,1,456.9,1,1,2,112,Lost Customers
+37,Customer_0037,Southern Europe,2024-08-14,2,456.3,16.319999999999993,139,2,456.3,2,2,2,222,Lost Customers
+17,Customer_0017,North Africa,2024-06-18,1,453.96,123.2,196,1,453.96,2,1,2,212,Lost Customers
+191,Customer_0191,Southern Europe,2024-08-10,1,450.72,182.98,143,1,450.72,2,1,2,212,Lost Customers
+9,Customer_0009,North Africa,2024-10-11,2,449.39,-47.040000000000006,81,2,449.39,3,2,2,322,Lost Customers
+120,Customer_0120,Southern Europe,2024-03-02,1,441.0,5.600000000000001,304,1,441.0,1,1,1,111,Lost Customers
+16,Customer_0016,Central Europe,2024-05-26,1,405.88,-154.44,219,1,405.88,1,1,1,111,Lost Customers
+123,Customer_0123,Southern Europe,2024-09-21,1,339.6,-6.339999999999999,101,1,339.6,3,1,1,311,Lost Customers
+225,Customer_0225,North Africa,2024-02-15,1,334.8,138.56,320,1,334.8,1,2,1,121,Lost Customers
+230,Customer_0230,North Africa,2024-02-08,1,328.67,144.92,327,1,328.67,1,2,1,121,Lost Customers
+235,Customer_0235,Western Europe,2024-03-19,1,321.09,66.91999999999999,287,1,321.09,1,2,1,121,Lost Customers
+255,Customer_0255,Western Europe,2024-05-08,1,316.28,37.96,237,1,316.28,1,2,1,121,Lost Customers
+82,Customer_0082,Southern Europe,2024-03-16,1,306.9,154.17,290,1,306.9,1,1,1,111,Lost Customers
+89,Customer_0089,North Africa,2024-09-25,2,291.46,48.14,97,2,291.46,3,2,1,321,Lost Customers
+57,Customer_0057,Southern Europe,2024-09-26,1,290.4,-19.639999999999997,96,1,290.4,3,1,1,311,Lost Customers
+125,Customer_0125,Western Europe,2024-04-11,1,252.6,-119.46,264,1,252.6,1,1,1,111,Lost Customers
+274,Customer_0274,North Africa,2024-03-06,1,252.57999999999998,97.44,300,1,252.58,1,2,1,121,Lost Customers
+50,Customer_0050,Western Europe,2024-10-14,1,250.08,8.76,78,1,250.08,3,1,1,311,Lost Customers
+272,Customer_0272,Southern Europe,2024-03-12,1,249.98,-69.75,294,1,249.98,1,2,1,121,Lost Customers
+226,Customer_0226,North Africa,2024-05-01,1,239.94,98.96,244,1,239.94,1,2,1,121,Lost Customers
+278,Customer_0278,Southern Europe,2024-02-09,1,234.18,-160.44,326,1,234.18,1,2,1,121,Lost Customers
+45,Customer_0045,Southern Europe,2024-10-13,1,228.78,57.82,79,1,228.78,3,1,1,311,Lost Customers
+114,Customer_0114,North Africa,2024-02-08,1,226.14,-115.9,327,1,226.14,1,1,1,111,Lost Customers
+119,Customer_0119,Southern Europe,2024-10-27,2,208.06,-69.48,65,2,208.06,3,2,1,321,Lost Customers
+146,Customer_0146,North Africa,2024-01-01,1,197.76,91.36,365,1,197.76,1,1,1,111,Lost Customers
+121,Customer_0121,Central Europe,2024-05-09,1,193.92,99.46,236,1,193.92,1,1,1,111,Lost Customers
+85,Customer_0085,Central Europe,2024-03-13,1,189.0,-93.1,293,1,189.0,1,1,1,111,Lost Customers
+195,Customer_0195,Southern Europe,2024-01-24,1,164.61,-141.97,342,1,164.61,1,1,1,111,Lost Customers
+21,Customer_0021,Western Europe,2024-09-13,1,145.08,-26.23,109,1,145.08,3,1,1,311,Lost Customers
+199,Customer_0199,North Africa,2024-04-10,1,126.0,-89.96,265,1,126.0,1,1,1,111,Lost Customers
+167,Customer_0167,North Africa,2024-09-05,1,100.44,-29.36,117,1,100.44,2,1,1,211,Lost Customers
+211,Customer_0211,Southern Europe,2024-01-19,1,99.0,-153.55,347,1,99.0,1,2,1,121,Lost Customers
+42,Customer_0042,Southern Europe,2024-04-07,1,91.14,38.34,268,1,91.14,1,1,1,111,Lost Customers
+31,Customer_0031,Southern Europe,2024-02-28,1,74.88,-16.2,307,1,74.88,1,1,1,111,Lost Customers
+72,Customer_0072,Western Europe,2024-03-24,2,61.3,-81.11,282,2,61.3,1,2,1,121,Lost Customers
+116,Customer_0116,Western Europe,2024-09-22,1,40.18,-14.24,100,1,40.18,3,1,1,311,Lost Customers
+141,Customer_0141,Central Europe,2024-02-19,1,11.76,-45.93,316,1,11.76,1,1,1,111,Lost Customers
+220,Customer_0220,Western Europe,2024-10-02,5,2556.66,789.61,90,5,2556.66,3,5,5,355,Loyal Customers
+63,Customer_0063,Southern Europe,2024-10-19,6,2354.56,46.48,73,6,2354.56,3,5,5,355,Loyal Customers
+264,Customer_0264,Western Europe,2024-10-17,4,2136.79,764.71,75,4,2136.79,3,5,5,355,Loyal Customers
+127,Customer_0127,Southern Europe,2024-10-19,4,2007.77,677.72,73,4,2007.77,3,5,5,355,Loyal Customers
+179,Customer_0179,Southern Europe,2024-09-25,5,1996.97,434.06,97,5,1996.97,3,5,5,355,Loyal Customers
+25,Customer_0025,Southern Europe,2024-09-22,3,1890.36,520.19,100,3,1890.36,3,3,5,335,Loyal Customers
+148,Customer_0148,North Africa,2024-10-01,4,1870.4,276.61,91,4,1870.4,3,5,5,355,Loyal Customers
+46,Customer_0046,Southern Europe,2024-09-25,3,1793.94,493.61,97,3,1793.94,3,3,5,335,Loyal Customers
+111,Customer_0111,Western Europe,2024-10-10,3,1785.14,553.33,82,3,1785.14,3,4,5,345,Loyal Customers
+268,Customer_0268,Western Europe,2024-12-19,2,1759.77,611.76,12,2,1759.77,5,3,5,535,Loyal Customers
+15,Customer_0015,North Africa,2024-09-17,3,1748.2,637.52,105,3,1748.2,3,3,5,335,Loyal Customers
+261,Customer_0261,North Africa,2024-10-06,3,1669.38,278.68,86,3,1669.38,3,4,4,344,Loyal Customers
+205,Customer_0205,North Africa,2024-09-20,2,1438.2,54.56,102,2,1438.2,3,3,4,334,Loyal Customers
+184,Customer_0184,Western Europe,2024-10-22,2,1425.54,289.18,70,2,1425.54,3,3,4,334,Loyal Customers
+196,Customer_0196,Southern Europe,2024-09-23,3,1300.65,373.77,99,3,1300.65,3,4,4,344,Loyal Customers
+90,Customer_0090,Southern Europe,2024-10-03,4,1265.71,498.75,89,4,1265.71,3,4,4,344,Loyal Customers
+290,Customer_0290,Central Europe,2024-09-23,2,1225.05,306.90000000000003,99,2,1225.05,3,3,4,334,Loyal Customers
+92,Customer_0092,Southern Europe,2024-09-20,3,1188.19,194.26999999999998,102,3,1188.19,3,4,4,344,Loyal Customers
+244,Customer_0244,Southern Europe,2024-11-18,2,1161.59,293.62,43,2,1161.59,4,3,4,434,Loyal Customers
+253,Customer_0253,North Africa,2024-09-22,3,1119.4,52.49000000000001,100,3,1119.4,3,4,4,344,Loyal Customers
+201,Customer_0201,Western Europe,2024-10-15,3,1112.44,110.93999999999997,77,3,1112.44,3,4,3,343,Loyal Customers
+284,Customer_0284,North Africa,2024-12-07,2,1089.68,208.67000000000002,24,2,1089.68,5,3,3,533,Loyal Customers
+217,Customer_0217,Southern Europe,2024-12-21,4,1082.75,235.31,10,4,1082.75,5,5,3,553,Loyal Customers
+151,Customer_0151,Central Europe,2024-12-18,3,1076.3,147.44000000000003,13,3,1076.3,5,4,3,543,Loyal Customers
+250,Customer_0250,Central Europe,2024-12-12,2,1075.45,114.44000000000003,19,2,1075.45,5,3,3,533,Loyal Customers
+170,Customer_0170,North Africa,2024-10-14,4,1055.0,67.30000000000001,78,4,1055.0,3,5,3,353,Loyal Customers
+293,Customer_0293,Central Europe,2024-11-29,3,1025.7,58.73000000000002,32,3,1025.7,5,4,3,543,Loyal Customers
+198,Customer_0198,Central Europe,2024-12-09,4,1023.83,137.81,22,4,1023.83,5,5,3,553,Loyal Customers
+51,Customer_0051,Central Europe,2024-11-08,4,1003.29,-35.32999999999999,53,4,1003.29,4,4,3,443,Loyal Customers
+35,Customer_0035,Southern Europe,2024-10-15,3,970.74,312.97,77,3,970.74,3,3,3,333,Loyal Customers
+189,Customer_0189,Central Europe,2024-11-27,3,934.45,169.04,34,3,934.45,5,4,3,543,Loyal Customers
+262,Customer_0262,North Africa,2024-11-07,2,926.88,118.36000000000001,54,2,926.88,4,3,3,433,Loyal Customers
+257,Customer_0257,Southern Europe,2024-10-19,3,923.95,28.919999999999998,73,3,923.95,3,4,3,343,Loyal Customers
+224,Customer_0224,Western Europe,2024-12-09,3,912.31,-60.07999999999999,22,3,912.31,5,4,3,543,Loyal Customers
+26,Customer_0026,Southern Europe,2024-10-21,3,865.64,325.18,71,3,865.64,3,3,3,333,Loyal Customers
+178,Customer_0178,Western Europe,2024-12-23,2,838.86,148.24,8,2,838.86,5,3,3,533,Loyal Customers
+213,Customer_0213,Western Europe,2024-10-11,3,819.6800000000001,109.33999999999997,81,3,819.68,3,4,3,343,Loyal Customers
+137,Customer_0137,Western Europe,2024-12-10,3,816.56,35.93,21,3,816.56,5,4,3,543,Loyal Customers
+158,Customer_0158,Southern Europe,2024-10-27,4,810.18,249.38,65,4,810.18,3,5,3,353,Loyal Customers
+150,Customer_0150,North Africa,2024-11-14,3,795.66,-93.99000000000001,47,3,795.66,4,4,3,443,Loyal Customers
+237,Customer_0237,Southern Europe,2024-12-21,3,786.61,-129.75,10,3,786.61,5,4,3,543,Loyal Customers
+227,Customer_0227,Southern Europe,2024-10-21,3,764.38,-171.14,71,3,764.38,3,4,3,343,Loyal Customers
+212,Customer_0212,North Africa,2024-10-20,2,746.9,325.8,72,2,746.9,3,3,3,333,Loyal Customers
+280,Customer_0280,Southern Europe,2024-10-29,2,704.25,-54.52999999999997,63,2,704.25,4,3,3,433,Loyal Customers
+4,Customer_0004,Western Europe,2024-10-11,4,703.25,134.35,81,4,703.25,3,4,3,343,Loyal Customers
+11,Customer_0011,North Africa,2024-12-01,1,1891.78,572.1999999999999,30,1,1891.78,5,1,5,515,New Customers
+40,Customer_0040,North Africa,2024-11-20,1,436.59999999999997,-143.67000000000002,41,1,436.6,4,1,1,411,New Customers
+181,Customer_0181,Southern Europe,2024-10-28,1,294.72,50.85999999999999,64,1,294.72,4,1,1,411,New Customers
+175,Customer_0175,Southern Europe,2024-11-16,1,221.76,12.560000000000002,45,1,221.76,4,1,1,411,New Customers
+3,Customer_0003,Southern Europe,2024-11-21,1,167.4,74.94,40,1,167.4,4,1,1,411,New Customers
+105,Customer_0105,Western Europe,2024-12-24,1,165.54,66.16,7,1,165.54,5,1,1,511,New Customers
+185,Customer_0185,Western Europe,2024-11-23,1,138.4,-82.67,38,1,138.4,4,1,1,411,New Customers
+27,Customer_0027,North Africa,2024-12-29,1,31.35,-11.44,2,1,31.35,5,1,1,511,New Customers
+18,Customer_0018,North Africa,2024-12-24,1,18.6,-99.8,7,1,18.6,5,1,1,511,New Customers
+34,Customer_0034,North Africa,2024-12-13,2,1583.76,342.52,18,2,1583.76,5,2,4,524,Potential Loyalists
+70,Customer_0070,North Africa,2024-12-22,2,1292.55,230.09,9,2,1292.55,5,2,4,524,Potential Loyalists
+14,Customer_0014,Southern Europe,2024-11-13,2,1233.42,399.54,48,2,1233.42,4,2,4,424,Potential Loyalists
+142,Customer_0142,Central Europe,2024-11-28,2,1196.15,110.02000000000002,33,2,1196.15,5,2,4,524,Potential Loyalists
+60,Customer_0060,Southern Europe,2024-12-04,2,1118.63,223.59000000000003,27,2,1118.63,5,2,4,524,Potential Loyalists
+106,Customer_0106,Western Europe,2024-11-04,2,1039.83,116.99999999999997,57,2,1039.83,4,2,3,423,Potential Loyalists
+94,Customer_0094,Central Europe,2024-11-11,2,892.76,-127.41999999999999,50,2,892.76,4,2,3,423,Potential Loyalists
+228,Customer_0228,Central Europe,2024-11-23,2,680.4000000000001,133.12,38,2,680.4,4,3,2,432,Potential Loyalists
+254,Customer_0254,Central Europe,2024-10-29,3,678.9,-64.03,63,3,678.9,4,4,2,442,Potential Loyalists
+28,Customer_0028,North Africa,2024-11-11,4,668.2,94.42000000000002,50,4,668.2,4,4,2,442,Potential Loyalists
+56,Customer_0056,Southern Europe,2024-11-20,2,664.05,-243.17999999999998,41,2,664.05,4,2,2,422,Potential Loyalists
+203,Customer_0203,Southern Europe,2024-11-01,3,664.02,-62.48999999999999,60,3,664.02,4,4,2,442,Potential Loyalists
+47,Customer_0047,Southern Europe,2024-11-03,3,656.98,75.09000000000002,58,3,656.98,4,3,2,432,Potential Loyalists
+65,Customer_0065,Western Europe,2024-12-10,3,650.39,-95.15,21,3,650.39,5,3,2,532,Potential Loyalists
+222,Customer_0222,Southern Europe,2024-11-13,2,648.1800000000001,345.28,48,2,648.18,4,3,2,432,Potential Loyalists
+206,Customer_0206,Southern Europe,2024-11-19,2,638.22,56.459999999999994,42,2,638.22,4,3,2,432,Potential Loyalists
+78,Customer_0078,Southern Europe,2024-12-24,3,636.54,-81.02,7,3,636.54,5,4,2,542,Potential Loyalists
+279,Customer_0279,Southern Europe,2024-12-30,2,628.4,140.63,1,2,628.4,5,3,2,532,Potential Loyalists
+162,Customer_0162,Southern Europe,2024-11-25,2,582.7800000000001,135.6,36,2,582.78,4,3,2,432,Potential Loyalists
+103,Customer_0103,Southern Europe,2024-10-31,2,539.0600000000001,122.38,61,2,539.06,4,2,2,422,Potential Loyalists
+202,Customer_0202,Southern Europe,2024-12-16,2,538.2,184.93,15,2,538.2,5,3,2,532,Potential Loyalists
+12,Customer_0012,Western Europe,2024-11-30,3,523.17,-334.90999999999997,31,3,523.17,5,3,2,532,Potential Loyalists
+55,Customer_0055,Southern Europe,2024-12-10,2,491.27000000000004,37.39,21,2,491.27,5,2,2,522,Potential Loyalists
+299,Customer_0299,Western Europe,2024-12-09,2,448.86,152.78,22,2,448.86,5,3,1,531,Potential Loyalists
+241,Customer_0241,North Africa,2024-11-21,1,435.6,30.930000000000007,40,1,435.6,4,2,1,421,Potential Loyalists
+44,Customer_0044,Western Europe,2024-12-21,3,414.44,77.16,10,3,414.44,5,3,1,531,Potential Loyalists
+260,Customer_0260,Southern Europe,2024-11-23,2,404.46,-61.489999999999995,38,2,404.46,4,3,1,431,Potential Loyalists
+210,Customer_0210,North Africa,2024-11-19,2,400.26,-327.1,42,2,400.26,4,3,1,431,Potential Loyalists
+246,Customer_0246,Central Europe,2024-11-18,2,348.73999999999995,22.92,43,2,348.74,4,3,1,431,Potential Loyalists
+291,Customer_0291,North Africa,2024-12-26,2,342.39,-88.21000000000001,5,2,342.39,5,3,1,531,Potential Loyalists
+149,Customer_0149,Central Europe,2024-12-15,2,334.44,47.879999999999995,16,2,334.44,5,2,1,521,Potential Loyalists
+182,Customer_0182,Southern Europe,2024-12-27,2,321.0,57.029999999999994,4,2,321.0,5,3,1,531,Potential Loyalists
+270,Customer_0270,Southern Europe,2024-10-30,1,318.71999999999997,99.66,62,1,318.72,4,2,1,421,Potential Loyalists
+298,Customer_0298,North Africa,2024-11-06,1,297.0,149.82,55,1,297.0,4,2,1,421,Potential Loyalists
+95,Customer_0095,Southern Europe,2024-10-31,3,248.88,-119.24,61,3,248.88,4,4,1,441,Potential Loyalists
+23,Customer_0023,Southern Europe,2024-12-14,3,248.53,-32.33,17,3,248.53,5,3,1,531,Potential Loyalists

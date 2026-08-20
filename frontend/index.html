@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Shoplytics Dashboard</title>
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <div class="shell">
+      <header class="hero">
+        <div>
+          <p class="eyebrow">Shoplytics</p>
+          <h1>E-Commerce Sales & Customer Analytics Dashboard</h1>
+          <p id="hero-subtitle" class="hero-copy">
+            Interactive analytics across revenue, product mix, geography, and customer value.
+          </p>
+        </div>
+        <div class="hero-meta">
+          <div class="meta-chip">
+            <span>Dataset</span>
+            <strong id="dataset-name">Loading...</strong>
+          </div>
+          <div class="meta-chip">
+            <span>Coverage</span>
+            <strong id="date-range">Loading...</strong>
+          </div>
+        </div>
+      </header>
+
+      <section class="filters-panel card">
+        <div class="panel-heading">
+          <div>
+            <p class="section-tag">Controls</p>
+            <h2>Slice the dashboard</h2>
+          </div>
+          <button id="reset-filters" class="ghost-button" type="button">Reset Filters</button>
+        </div>
+        <div class="filters-grid">
+          <label>
+            <span>Status</span>
+            <select id="status-filter"></select>
+          </label>
+          <label>
+            <span>Region</span>
+            <select id="region-filter"></select>
+          </label>
+          <label>
+            <span>Category</span>
+            <select id="category-filter"></select>
+          </label>
+          <label>
+            <span>Payment Method</span>
+            <select id="payment-filter"></select>
+          </label>
+        </div>
+      </section>
+
+      <section class="kpi-grid" id="kpi-grid"></section>
+
+      <section class="layout-two">
+        <article class="card">
+          <div class="panel-heading">
+            <div>
+              <p class="section-tag">Trend</p>
+              <h2>Monthly revenue and profit</h2>
+            </div>
+          </div>
+          <div id="trend-chart" class="chart-block"></div>
+        </article>
+
+        <article class="card">
+          <div class="panel-heading">
+            <div>
+              <p class="section-tag">Mix</p>
+              <h2>Revenue by category</h2>
+            </div>
+          </div>
+          <div id="category-chart" class="chart-block"></div>
+        </article>
+      </section>
+
+      <section class="layout-two">
+        <article class="card">
+          <div class="panel-heading">
+            <div>
+              <p class="section-tag">Geography</p>
+              <h2>Regional performance</h2>
+            </div>
+          </div>
+          <div id="region-chart" class="chart-block"></div>
+        </article>
+
+        <article class="card">
+          <div class="panel-heading">
+            <div>
+              <p class="section-tag">Customers</p>
+              <h2>Revenue by segment</h2>
+            </div>
+          </div>
+          <div id="segment-chart" class="chart-block"></div>
+        </article>
+      </section>
+
+      <section class="layout-two">
+        <article class="card">
+          <div class="panel-heading">
+            <div>
+              <p class="section-tag">Products</p>
+              <h2>Top revenue products</h2>
+            </div>
+          </div>
+          <div id="products-table"></div>
+        </article>
+
+        <article class="card">
+          <div class="panel-heading">
+            <div>
+              <p class="section-tag">Watchlist</p>
+              <h2>High revenue, low margin</h2>
+            </div>
+          </div>
+          <div id="risk-table"></div>
+        </article>
+      </section>
+
+      <section class="card">
+        <div class="panel-heading">
+          <div>
+            <p class="section-tag">Where to act</p>
+            <h2>Dashboard highlights</h2>
+          </div>
+        </div>
+        <div id="insights-grid" class="insights-grid"></div>
+      </section>
+    </div>
+
+    <script src="./app.js"></script>
+  </body>
+</html>

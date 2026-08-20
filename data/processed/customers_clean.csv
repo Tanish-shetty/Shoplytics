@@ -1,0 +1,301 @@
+customer_id,customer_name,gender,age,city,state,region,country,signup_date
+1,Customer_0001,Male,27,Girona,Catalonia,Southern Europe,Spain,2023-05-15
+2,Customer_0002,Non-binary,34,Caserta,Campania,Southern Europe,Italy,2023-02-10
+3,Customer_0003,Female,41,Madrid,Madrid,Southern Europe,Spain,2023-10-23
+4,Customer_0004,Male,48,Nice,Provence-Alpes-Cote d'Azur,Western Europe,France,2023-01-03
+5,Customer_0005,Non-binary,55,Caserta,Campania,Southern Europe,Italy,2024-02-05
+6,Customer_0006,Female,21,Rome,Lazio,Southern Europe,Italy,2023-07-13
+7,Customer_0007,Male,28,Girona,Catalonia,Southern Europe,Spain,2024-04-07
+8,Customer_0008,Non-binary,35,Annecy,Auvergne-Rhone-Alpes,Western Europe,France,2023-04-20
+9,Customer_0009,Female,42,Casablanca,Casablanca-Settat,North Africa,Morocco,2023-08-09
+10,Customer_0010,Male,49,Bergamo,Lombardy,Southern Europe,Italy,2024-01-05
+11,Customer_0011,Non-binary,56,Essaouira,Marrakesh-Safi,North Africa,Morocco,2024-01-03
+12,Customer_0012,Female,22,Paris,Ile-de-France,Western Europe,France,2024-03-11
+13,Customer_0013,Male,29,Bergamo,Lombardy,Southern Europe,Italy,2024-02-10
+14,Customer_0014,Non-binary,36,Caserta,Campania,Southern Europe,Italy,2023-01-04
+15,Customer_0015,Female,43,Casablanca,Casablanca-Settat,North Africa,Morocco,2023-09-01
+16,Customer_0016,Male,50,Potsdam,Berlin,Central Europe,Germany,2024-01-25
+17,Customer_0017,Non-binary,57,Essaouira,Marrakesh-Safi,North Africa,Morocco,2023-06-15
+18,Customer_0018,Female,23,Casablanca,Casablanca-Settat,North Africa,Morocco,2023-01-26
+19,Customer_0019,Male,30,Potsdam,Berlin,Central Europe,Germany,2024-01-30
+20,Customer_0020,Non-binary,37,Annecy,Auvergne-Rhone-Alpes,Western Europe,France,2024-04-18
+21,Customer_0021,Female,44,Paris,Ile-de-France,Western Europe,France,2023-01-17
+22,Customer_0022,Male,51,Bergamo,Lombardy,Southern Europe,Italy,2023-08-04
+23,Customer_0023,Non-binary,58,Granada,Andalusia,Southern Europe,Spain,2023-04-02
+24,Customer_0024,Female,24,Madrid,Madrid,Southern Europe,Spain,2024-04-27
+25,Customer_0025,Male,31,Bergamo,Lombardy,Southern Europe,Italy,2023-01-31
+26,Customer_0026,Non-binary,38,Granada,Andalusia,Southern Europe,Spain,2023-07-24
+27,Customer_0027,Female,45,Casablanca,Casablanca-Settat,North Africa,Morocco,2024-02-23
+28,Customer_0028,Male,52,Sale,Rabat-Sale-Kenitra,North Africa,Morocco,2024-02-04
+29,Customer_0029,Non-binary,59,Bonn,North Rhine-Westphalia,Central Europe,Germany,2023-07-26
+30,Customer_0030,Female,25,Munich,Bavaria,Central Europe,Germany,2023-04-17
+31,Customer_0031,Male,32,Bergamo,Lombardy,Southern Europe,Italy,2023-05-26
+32,Customer_0032,Non-binary,39,Caserta,Campania,Southern Europe,Italy,2024-01-02
+33,Customer_0033,Female,46,Rome,Lazio,Southern Europe,Italy,2023-04-11
+34,Customer_0034,Male,53,Sale,Rabat-Sale-Kenitra,North Africa,Morocco,2024-01-03
+35,Customer_0035,Non-binary,60,Granada,Andalusia,Southern Europe,Spain,2023-11-14
+36,Customer_0036,Female,26,Rome,Lazio,Southern Europe,Italy,2024-01-03
+37,Customer_0037,Male,33,Bergamo,Lombardy,Southern Europe,Italy,2023-08-29
+38,Customer_0038,Non-binary,40,Essaouira,Marrakesh-Safi,North Africa,Morocco,2024-05-03
+39,Customer_0039,Female,47,Casablanca,Casablanca-Settat,North Africa,Morocco,2024-02-15
+40,Customer_0040,Male,54,Sale,Rabat-Sale-Kenitra,North Africa,Morocco,2023-09-04
+41,Customer_0041,Non-binary,20,Granada,Andalusia,Southern Europe,Spain,2023-06-12
+42,Customer_0042,Female,27,Rome,Lazio,Southern Europe,Italy,2024-01-07
+43,Customer_0043,Male,34,Nice,Provence-Alpes-Cote d'Azur,Western Europe,France,2023-06-22
+44,Customer_0044,Non-binary,41,Annecy,Auvergne-Rhone-Alpes,Western Europe,France,2023-02-04
+45,Customer_0045,Female,48,Rome,Lazio,Southern Europe,Italy,2023-10-11
+46,Customer_0046,Male,55,Bergamo,Lombardy,Southern Europe,Italy,2023-12-25
+47,Customer_0047,Non-binary,21,Caserta,Campania,Southern Europe,Italy,2024-01-16
+48,Customer_0048,Female,28,Rome,Lazio,Southern Europe,Italy,2023-12-24
+49,Customer_0049,Male,35,Girona,Catalonia,Southern Europe,Spain,2024-01-28
+50,Customer_0050,Non-binary,42,Annecy,Auvergne-Rhone-Alpes,Western Europe,France,2024-04-04
+51,Customer_0051,Female,49,Munich,Bavaria,Central Europe,Germany,2024-02-03
+52,Customer_0052,Male,56,Nice,Provence-Alpes-Cote d'Azur,Western Europe,France,2023-01-21
+53,Customer_0053,Non-binary,22,Annecy,Auvergne-Rhone-Alpes,Western Europe,France,2023-11-04
+54,Customer_0054,Female,29,Casablanca,Casablanca-Settat,North Africa,Morocco,2023-06-12
+55,Customer_0055,Male,36,Bergamo,Lombardy,Southern Europe,Italy,2024-05-04
+56,Customer_0056,Non-binary,43,Caserta,Campania,Southern Europe,Italy,2023-04-07
+57,Customer_0057,Female,50,Rome,Lazio,Southern Europe,Italy,2023-11-03
+58,Customer_0058,Male,57,Sale,Rabat-Sale-Kenitra,North Africa,Morocco,2023-12-05
+59,Customer_0059,Non-binary,23,Granada,Andalusia,Southern Europe,Spain,2023-02-24
+60,Customer_0060,Female,30,Madrid,Madrid,Southern Europe,Spain,2024-04-15
+61,Customer_0061,Male,37,Potsdam,Berlin,Central Europe,Germany,2023-11-29
+62,Customer_0062,Non-binary,44,Granada,Andalusia,Southern Europe,Spain,2023-05-07
+63,Customer_0063,Female,51,Madrid,Madrid,Southern Europe,Spain,2024-03-03
+64,Customer_0064,Male,58,Bergamo,Lombardy,Southern Europe,Italy,2023-07-12
+65,Customer_0065,Non-binary,24,Annecy,Auvergne-Rhone-Alpes,Western Europe,France,2023-08-31
+66,Customer_0066,Female,31,Madrid,Madrid,Southern Europe,Spain,2023-12-15
+67,Customer_0067,Male,38,Girona,Catalonia,Southern Europe,Spain,2023-03-29
+68,Customer_0068,Non-binary,45,Essaouira,Marrakesh-Safi,North Africa,Morocco,2023-12-02
+69,Customer_0069,Female,52,Munich,Bavaria,Central Europe,Germany,2024-02-13
+70,Customer_0070,Male,59,Sale,Rabat-Sale-Kenitra,North Africa,Morocco,2023-08-03
+71,Customer_0071,Non-binary,25,Caserta,Campania,Southern Europe,Italy,2023-04-02
+72,Customer_0072,Female,32,Paris,Ile-de-France,Western Europe,France,2023-10-30
+73,Customer_0073,Male,39,Potsdam,Berlin,Central Europe,Germany,2024-04-08
+74,Customer_0074,Non-binary,46,Essaouira,Marrakesh-Safi,North Africa,Morocco,2023-08-23
+75,Customer_0075,Female,53,Madrid,Madrid,Southern Europe,Spain,2023-07-03
+76,Customer_0076,Male,60,Girona,Catalonia,Southern Europe,Spain,2023-02-07
+77,Customer_0077,Non-binary,26,Bonn,North Rhine-Westphalia,Central Europe,Germany,2023-05-19
+78,Customer_0078,Female,33,Madrid,Madrid,Southern Europe,Spain,2023-07-14
+79,Customer_0079,Male,40,Sale,Rabat-Sale-Kenitra,North Africa,Morocco,2023-01-15
+80,Customer_0080,Non-binary,47,Essaouira,Marrakesh-Safi,North Africa,Morocco,2023-09-14
+81,Customer_0081,Female,54,Madrid,Madrid,Southern Europe,Spain,2023-05-15
+82,Customer_0082,Male,20,Girona,Catalonia,Southern Europe,Spain,2023-01-01
+83,Customer_0083,Non-binary,27,Caserta,Campania,Southern Europe,Italy,2023-02-18
+84,Customer_0084,Female,34,Paris,Ile-de-France,Western Europe,France,2023-04-06
+85,Customer_0085,Male,41,Potsdam,Berlin,Central Europe,Germany,2023-07-20
+86,Customer_0086,Non-binary,48,Essaouira,Marrakesh-Safi,North Africa,Morocco,2024-02-17
+87,Customer_0087,Female,55,Munich,Bavaria,Central Europe,Germany,2023-01-26
+88,Customer_0088,Male,21,Bergamo,Lombardy,Southern Europe,Italy,2023-12-09
+89,Customer_0089,Non-binary,28,Essaouira,Marrakesh-Safi,North Africa,Morocco,2024-03-04
+90,Customer_0090,Female,35,Rome,Lazio,Southern Europe,Italy,2023-08-23
+91,Customer_0091,Male,42,Bergamo,Lombardy,Southern Europe,Italy,2023-12-15
+92,Customer_0092,Non-binary,49,Granada,Andalusia,Southern Europe,Spain,2023-09-01
+93,Customer_0093,Female,56,Munich,Bavaria,Central Europe,Germany,2023-12-24
+94,Customer_0094,Male,22,Potsdam,Berlin,Central Europe,Germany,2024-04-25
+95,Customer_0095,Non-binary,29,Granada,Andalusia,Southern Europe,Spain,2023-11-23
+96,Customer_0096,Female,36,Munich,Bavaria,Central Europe,Germany,2024-01-31
+97,Customer_0097,Male,43,Girona,Catalonia,Southern Europe,Spain,2023-12-17
+98,Customer_0098,Non-binary,50,Essaouira,Marrakesh-Safi,North Africa,Morocco,2024-02-20
+99,Customer_0099,Female,57,Rome,Lazio,Southern Europe,Italy,2024-01-09
+100,Customer_0100,Male,23,Bergamo,Lombardy,Southern Europe,Italy,2024-02-08
+101,Customer_0101,Non-binary,30,Bonn,North Rhine-Westphalia,Central Europe,Germany,2024-01-10
+102,Customer_0102,Female,37,Paris,Ile-de-France,Western Europe,France,2023-02-20
+103,Customer_0103,Male,44,Bergamo,Lombardy,Southern Europe,Italy,2023-03-22
+104,Customer_0104,Non-binary,51,Granada,Andalusia,Southern Europe,Spain,2023-02-05
+105,Customer_0105,Female,58,Paris,Ile-de-France,Western Europe,France,2023-03-08
+106,Customer_0106,Male,24,Nice,Provence-Alpes-Cote d'Azur,Western Europe,France,2023-05-09
+107,Customer_0107,Non-binary,31,Caserta,Campania,Southern Europe,Italy,2024-01-05
+108,Customer_0108,Female,38,Rome,Lazio,Southern Europe,Italy,2023-06-04
+109,Customer_0109,Male,45,Bergamo,Lombardy,Southern Europe,Italy,2023-09-02
+110,Customer_0110,Non-binary,52,Granada,Andalusia,Southern Europe,Spain,2023-04-21
+111,Customer_0111,Female,59,Paris,Ile-de-France,Western Europe,France,2023-06-17
+112,Customer_0112,Male,25,Potsdam,Berlin,Central Europe,Germany,2024-04-25
+113,Customer_0113,Non-binary,32,Granada,Andalusia,Southern Europe,Spain,2024-04-12
+114,Customer_0114,Female,39,Casablanca,Casablanca-Settat,North Africa,Morocco,2023-05-22
+115,Customer_0115,Male,46,Bergamo,Lombardy,Southern Europe,Italy,2023-12-22
+116,Customer_0116,Non-binary,53,Annecy,Auvergne-Rhone-Alpes,Western Europe,France,2023-07-16
+117,Customer_0117,Female,60,Madrid,Madrid,Southern Europe,Spain,2024-04-15
+118,Customer_0118,Male,26,Sale,Rabat-Sale-Kenitra,North Africa,Morocco,2023-04-19
+119,Customer_0119,Non-binary,33,Granada,Andalusia,Southern Europe,Spain,2024-01-11
+120,Customer_0120,Female,40,Madrid,Madrid,Southern Europe,Spain,2023-03-20
+121,Customer_0121,Male,47,Potsdam,Berlin,Central Europe,Germany,2024-01-25
+122,Customer_0122,Non-binary,54,Bonn,North Rhine-Westphalia,Central Europe,Germany,2023-06-10
+123,Customer_0123,Female,20,Madrid,Madrid,Southern Europe,Spain,2024-03-14
+124,Customer_0124,Male,27,Sale,Rabat-Sale-Kenitra,North Africa,Morocco,2023-01-19
+125,Customer_0125,Non-binary,34,Annecy,Auvergne-Rhone-Alpes,Western Europe,France,2023-05-07
+126,Customer_0126,Female,41,Paris,Ile-de-France,Western Europe,France,2023-07-24
+127,Customer_0127,Male,48,Bergamo,Lombardy,Southern Europe,Italy,2023-01-29
+128,Customer_0128,Non-binary,55,Caserta,Campania,Southern Europe,Italy,2024-03-20
+129,Customer_0129,Female,21,Paris,Ile-de-France,Western Europe,France,2024-03-29
+130,Customer_0130,Male,28,Girona,Catalonia,Southern Europe,Spain,2023-07-26
+131,Customer_0131,Non-binary,35,Granada,Andalusia,Southern Europe,Spain,2024-04-08
+132,Customer_0132,Female,42,Munich,Bavaria,Central Europe,Germany,2023-10-07
+133,Customer_0133,Male,49,Potsdam,Berlin,Central Europe,Germany,2023-05-31
+134,Customer_0134,Non-binary,56,Caserta,Campania,Southern Europe,Italy,2023-08-28
+135,Customer_0135,Female,22,Paris,Ile-de-France,Western Europe,France,2023-09-23
+136,Customer_0136,Male,29,Girona,Catalonia,Southern Europe,Spain,2023-07-01
+137,Customer_0137,Non-binary,36,Annecy,Auvergne-Rhone-Alpes,Western Europe,France,2023-04-15
+138,Customer_0138,Female,43,Casablanca,Casablanca-Settat,North Africa,Morocco,2024-02-29
+139,Customer_0139,Male,50,Nice,Provence-Alpes-Cote d'Azur,Western Europe,France,2024-03-08
+140,Customer_0140,Non-binary,57,Essaouira,Marrakesh-Safi,North Africa,Morocco,2024-02-05
+141,Customer_0141,Female,23,Munich,Bavaria,Central Europe,Germany,2024-05-11
+142,Customer_0142,Male,30,Potsdam,Berlin,Central Europe,Germany,2024-03-15
+143,Customer_0143,Non-binary,37,Caserta,Campania,Southern Europe,Italy,2023-08-24
+144,Customer_0144,Female,44,Paris,Ile-de-France,Western Europe,France,2023-06-22
+145,Customer_0145,Male,51,Nice,Provence-Alpes-Cote d'Azur,Western Europe,France,2023-06-07
+146,Customer_0146,Non-binary,58,Essaouira,Marrakesh-Safi,North Africa,Morocco,2023-06-21
+147,Customer_0147,Female,24,Munich,Bavaria,Central Europe,Germany,2024-05-08
+148,Customer_0148,Male,31,Sale,Rabat-Sale-Kenitra,North Africa,Morocco,2024-04-02
+149,Customer_0149,Non-binary,38,Bonn,North Rhine-Westphalia,Central Europe,Germany,2023-11-07
+150,Customer_0150,Female,45,Casablanca,Casablanca-Settat,North Africa,Morocco,2024-02-07
+151,Customer_0151,Male,52,Potsdam,Berlin,Central Europe,Germany,2023-06-06
+152,Customer_0152,Non-binary,59,Essaouira,Marrakesh-Safi,North Africa,Morocco,2023-09-15
+153,Customer_0153,Female,25,Munich,Bavaria,Central Europe,Germany,2023-06-13
+154,Customer_0154,Male,32,Sale,Rabat-Sale-Kenitra,North Africa,Morocco,2023-05-27
+155,Customer_0155,Non-binary,39,Annecy,Auvergne-Rhone-Alpes,Western Europe,France,2024-01-26
+156,Customer_0156,Female,46,Rome,Lazio,Southern Europe,Italy,2023-06-03
+157,Customer_0157,Male,53,Sale,Rabat-Sale-Kenitra,North Africa,Morocco,2024-04-07
+158,Customer_0158,Non-binary,60,Caserta,Campania,Southern Europe,Italy,2024-01-02
+159,Customer_0159,Female,26,Paris,Ile-de-France,Western Europe,France,2023-02-07
+160,Customer_0160,Male,33,Nice,Provence-Alpes-Cote d'Azur,Western Europe,France,2023-05-11
+161,Customer_0161,Non-binary,40,Bonn,North Rhine-Westphalia,Central Europe,Germany,2023-12-24
+162,Customer_0162,Female,47,Rome,Lazio,Southern Europe,Italy,2023-09-12
+163,Customer_0163,Male,54,Girona,Catalonia,Southern Europe,Spain,2023-07-27
+164,Customer_0164,Non-binary,20,Bonn,North Rhine-Westphalia,Central Europe,Germany,2024-03-25
+165,Customer_0165,Female,27,Rome,Lazio,Southern Europe,Italy,2023-04-05
+166,Customer_0166,Male,34,Sale,Rabat-Sale-Kenitra,North Africa,Morocco,2023-12-14
+167,Customer_0167,Non-binary,41,Essaouira,Marrakesh-Safi,North Africa,Morocco,2023-11-23
+168,Customer_0168,Female,48,Paris,Ile-de-France,Western Europe,France,2024-04-22
+169,Customer_0169,Male,55,Girona,Catalonia,Southern Europe,Spain,2023-06-20
+170,Customer_0170,Non-binary,21,Essaouira,Marrakesh-Safi,North Africa,Morocco,2023-09-07
+171,Customer_0171,Female,28,Rome,Lazio,Southern Europe,Italy,2023-07-09
+172,Customer_0172,Male,35,Bergamo,Lombardy,Southern Europe,Italy,2023-07-18
+173,Customer_0173,Non-binary,42,Essaouira,Marrakesh-Safi,North Africa,Morocco,2024-04-28
+174,Customer_0174,Female,49,Rome,Lazio,Southern Europe,Italy,2023-08-09
+175,Customer_0175,Male,56,Bergamo,Lombardy,Southern Europe,Italy,2023-01-24
+176,Customer_0176,Non-binary,22,Annecy,Auvergne-Rhone-Alpes,Western Europe,France,2023-09-01
+177,Customer_0177,Female,29,Madrid,Madrid,Southern Europe,Spain,2024-02-27
+178,Customer_0178,Male,36,Nice,Provence-Alpes-Cote d'Azur,Western Europe,France,2023-11-20
+179,Customer_0179,Non-binary,43,Granada,Andalusia,Southern Europe,Spain,2023-05-08
+180,Customer_0180,Female,50,Rome,Lazio,Southern Europe,Italy,2023-04-03
+181,Customer_0181,Male,57,Girona,Catalonia,Southern Europe,Spain,2023-10-27
+182,Customer_0182,Non-binary,23,Caserta,Campania,Southern Europe,Italy,2023-05-13
+183,Customer_0183,Female,30,Rome,Lazio,Southern Europe,Italy,2023-02-24
+184,Customer_0184,Male,37,Nice,Provence-Alpes-Cote d'Azur,Western Europe,France,2024-04-21
+185,Customer_0185,Non-binary,44,Annecy,Auvergne-Rhone-Alpes,Western Europe,France,2023-06-07
+186,Customer_0186,Female,51,Munich,Bavaria,Central Europe,Germany,2023-01-29
+187,Customer_0187,Male,58,Sale,Rabat-Sale-Kenitra,North Africa,Morocco,2024-02-14
+188,Customer_0188,Non-binary,24,Bonn,North Rhine-Westphalia,Central Europe,Germany,2023-07-30
+189,Customer_0189,Female,31,Munich,Bavaria,Central Europe,Germany,2023-06-03
+190,Customer_0190,Male,38,Girona,Catalonia,Southern Europe,Spain,2023-10-20
+191,Customer_0191,Non-binary,45,Caserta,Campania,Southern Europe,Italy,2024-04-19
+192,Customer_0192,Female,52,Rome,Lazio,Southern Europe,Italy,2023-08-10
+193,Customer_0193,Male,59,Bergamo,Lombardy,Southern Europe,Italy,2023-04-25
+194,Customer_0194,Non-binary,25,Essaouira,Marrakesh-Safi,North Africa,Morocco,2024-03-12
+195,Customer_0195,Female,32,Madrid,Madrid,Southern Europe,Spain,2023-06-07
+196,Customer_0196,Male,39,Girona,Catalonia,Southern Europe,Spain,2023-09-16
+197,Customer_0197,Non-binary,46,Caserta,Campania,Southern Europe,Italy,2023-09-08
+198,Customer_0198,Female,53,Munich,Bavaria,Central Europe,Germany,2023-05-02
+199,Customer_0199,Male,60,Sale,Rabat-Sale-Kenitra,North Africa,Morocco,2023-10-26
+200,Customer_0200,Non-binary,26,Bonn,North Rhine-Westphalia,Central Europe,Germany,2023-09-20
+201,Customer_0201,Female,33,Paris,Ile-de-France,Western Europe,France,2024-01-16
+202,Customer_0202,Male,40,Girona,Catalonia,Southern Europe,Spain,2023-02-18
+203,Customer_0203,Non-binary,47,Granada,Andalusia,Southern Europe,Spain,2024-01-12
+204,Customer_0204,Female,54,Munich,Bavaria,Central Europe,Germany,2023-11-25
+205,Customer_0205,Male,20,Sale,Rabat-Sale-Kenitra,North Africa,Morocco,2023-10-24
+206,Customer_0206,Non-binary,27,Granada,Andalusia,Southern Europe,Spain,2023-12-28
+207,Customer_0207,Female,34,Munich,Bavaria,Central Europe,Germany,2023-03-18
+208,Customer_0208,Male,41,Sale,Rabat-Sale-Kenitra,North Africa,Morocco,2024-04-07
+209,Customer_0209,Non-binary,48,Bonn,North Rhine-Westphalia,Central Europe,Germany,2024-03-13
+210,Customer_0210,Female,55,Casablanca,Casablanca-Settat,North Africa,Morocco,2023-05-07
+211,Customer_0211,Male,21,Bergamo,Lombardy,Southern Europe,Italy,2023-07-16
+212,Customer_0212,Non-binary,28,Essaouira,Marrakesh-Safi,North Africa,Morocco,2023-08-09
+213,Customer_0213,Female,35,Paris,Ile-de-France,Western Europe,France,2024-04-27
+214,Customer_0214,Male,42,Bergamo,Lombardy,Southern Europe,Italy,2023-04-01
+215,Customer_0215,Non-binary,49,Bonn,North Rhine-Westphalia,Central Europe,Germany,2024-02-15
+216,Customer_0216,Female,56,Rome,Lazio,Southern Europe,Italy,2023-01-08
+217,Customer_0217,Male,22,Bergamo,Lombardy,Southern Europe,Italy,2023-02-01
+218,Customer_0218,Non-binary,29,Bonn,North Rhine-Westphalia,Central Europe,Germany,2024-04-12
+219,Customer_0219,Female,36,Munich,Bavaria,Central Europe,Germany,2023-11-16
+220,Customer_0220,Male,43,Nice,Provence-Alpes-Cote d'Azur,Western Europe,France,2024-01-29
+221,Customer_0221,Non-binary,50,Bonn,North Rhine-Westphalia,Central Europe,Germany,2023-09-26
+222,Customer_0222,Female,57,Madrid,Madrid,Southern Europe,Spain,2023-07-10
+223,Customer_0223,Male,23,Girona,Catalonia,Southern Europe,Spain,2023-12-15
+224,Customer_0224,Non-binary,30,Annecy,Auvergne-Rhone-Alpes,Western Europe,France,2023-06-12
+225,Customer_0225,Female,37,Casablanca,Casablanca-Settat,North Africa,Morocco,2023-03-02
+226,Customer_0226,Male,44,Sale,Rabat-Sale-Kenitra,North Africa,Morocco,2024-03-13
+227,Customer_0227,Non-binary,51,Granada,Andalusia,Southern Europe,Spain,2023-09-21
+228,Customer_0228,Female,58,Munich,Bavaria,Central Europe,Germany,2023-10-12
+229,Customer_0229,Male,24,Nice,Provence-Alpes-Cote d'Azur,Western Europe,France,2023-04-05
+230,Customer_0230,Non-binary,31,Essaouira,Marrakesh-Safi,North Africa,Morocco,2023-02-10
+231,Customer_0231,Female,38,Casablanca,Casablanca-Settat,North Africa,Morocco,2024-02-18
+232,Customer_0232,Male,45,Bergamo,Lombardy,Southern Europe,Italy,2024-04-14
+233,Customer_0233,Non-binary,52,Granada,Andalusia,Southern Europe,Spain,2023-05-29
+234,Customer_0234,Female,59,Munich,Bavaria,Central Europe,Germany,2023-07-23
+235,Customer_0235,Male,25,Nice,Provence-Alpes-Cote d'Azur,Western Europe,France,2023-09-24
+236,Customer_0236,Non-binary,32,Essaouira,Marrakesh-Safi,North Africa,Morocco,2023-01-02
+237,Customer_0237,Female,39,Rome,Lazio,Southern Europe,Italy,2023-06-27
+238,Customer_0238,Male,46,Girona,Catalonia,Southern Europe,Spain,2024-02-29
+239,Customer_0239,Non-binary,53,Granada,Andalusia,Southern Europe,Spain,2023-07-13
+240,Customer_0240,Female,60,Paris,Ile-de-France,Western Europe,France,2024-04-26
+241,Customer_0241,Male,26,Sale,Rabat-Sale-Kenitra,North Africa,Morocco,2024-01-22
+242,Customer_0242,Non-binary,33,Annecy,Auvergne-Rhone-Alpes,Western Europe,France,2023-12-02
+243,Customer_0243,Female,40,Paris,Ile-de-France,Western Europe,France,2024-03-10
+244,Customer_0244,Male,47,Bergamo,Lombardy,Southern Europe,Italy,2023-07-15
+245,Customer_0245,Non-binary,54,Granada,Andalusia,Southern Europe,Spain,2023-12-09
+246,Customer_0246,Female,20,Munich,Bavaria,Central Europe,Germany,2023-09-06
+247,Customer_0247,Male,27,Girona,Catalonia,Southern Europe,Spain,2024-05-12
+248,Customer_0248,Non-binary,34,Granada,Andalusia,Southern Europe,Spain,2023-07-31
+249,Customer_0249,Female,41,Rome,Lazio,Southern Europe,Italy,2023-06-02
+250,Customer_0250,Male,48,Potsdam,Berlin,Central Europe,Germany,2023-06-07
+251,Customer_0251,Non-binary,55,Essaouira,Marrakesh-Safi,North Africa,Morocco,2024-04-10
+252,Customer_0252,Female,21,Munich,Bavaria,Central Europe,Germany,2023-12-28
+253,Customer_0253,Male,28,Sale,Rabat-Sale-Kenitra,North Africa,Morocco,2023-05-19
+254,Customer_0254,Non-binary,35,Bonn,North Rhine-Westphalia,Central Europe,Germany,2023-08-09
+255,Customer_0255,Female,42,Paris,Ile-de-France,Western Europe,France,2023-09-30
+256,Customer_0256,Male,49,Potsdam,Berlin,Central Europe,Germany,2023-06-03
+257,Customer_0257,Non-binary,56,Caserta,Campania,Southern Europe,Italy,2023-09-06
+258,Customer_0258,Female,22,Casablanca,Casablanca-Settat,North Africa,Morocco,2023-10-06
+259,Customer_0259,Male,29,Girona,Catalonia,Southern Europe,Spain,2024-03-15
+260,Customer_0260,Non-binary,36,Caserta,Campania,Southern Europe,Italy,2024-03-11
+261,Customer_0261,Female,43,Casablanca,Casablanca-Settat,North Africa,Morocco,2023-10-31
+262,Customer_0262,Male,50,Sale,Rabat-Sale-Kenitra,North Africa,Morocco,2023-10-03
+263,Customer_0263,Non-binary,57,Granada,Andalusia,Southern Europe,Spain,2024-05-07
+264,Customer_0264,Female,23,Paris,Ile-de-France,Western Europe,France,2023-01-02
+265,Customer_0265,Male,30,Bergamo,Lombardy,Southern Europe,Italy,2023-03-29
+266,Customer_0266,Non-binary,37,Granada,Andalusia,Southern Europe,Spain,2023-10-14
+267,Customer_0267,Female,44,Madrid,Madrid,Southern Europe,Spain,2024-02-15
+268,Customer_0268,Male,51,Nice,Provence-Alpes-Cote d'Azur,Western Europe,France,2023-05-10
+269,Customer_0269,Non-binary,58,Caserta,Campania,Southern Europe,Italy,2023-03-19
+270,Customer_0270,Female,24,Madrid,Madrid,Southern Europe,Spain,2023-09-17
+271,Customer_0271,Male,31,Nice,Provence-Alpes-Cote d'Azur,Western Europe,France,2023-08-29
+272,Customer_0272,Non-binary,38,Caserta,Campania,Southern Europe,Italy,2023-05-21
+273,Customer_0273,Female,45,Munich,Bavaria,Central Europe,Germany,2023-08-16
+274,Customer_0274,Male,52,Sale,Rabat-Sale-Kenitra,North Africa,Morocco,2023-06-12
+275,Customer_0275,Non-binary,59,Annecy,Auvergne-Rhone-Alpes,Western Europe,France,2023-08-24
+276,Customer_0276,Female,25,Casablanca,Casablanca-Settat,North Africa,Morocco,2023-05-08
+277,Customer_0277,Male,32,Potsdam,Berlin,Central Europe,Germany,2023-07-19
+278,Customer_0278,Non-binary,39,Granada,Andalusia,Southern Europe,Spain,2024-03-25
+279,Customer_0279,Female,46,Madrid,Madrid,Southern Europe,Spain,2024-01-25
+280,Customer_0280,Male,53,Bergamo,Lombardy,Southern Europe,Italy,2023-01-31
+281,Customer_0281,Non-binary,60,Annecy,Auvergne-Rhone-Alpes,Western Europe,France,2023-05-18
+282,Customer_0282,Female,26,Paris,Ile-de-France,Western Europe,France,2024-05-06
+283,Customer_0283,Male,33,Bergamo,Lombardy,Southern Europe,Italy,2023-01-21
+284,Customer_0284,Non-binary,40,Essaouira,Marrakesh-Safi,North Africa,Morocco,2023-08-22
+285,Customer_0285,Female,47,Madrid,Madrid,Southern Europe,Spain,2023-07-21
+286,Customer_0286,Male,54,Girona,Catalonia,Southern Europe,Spain,2023-10-06
+287,Customer_0287,Non-binary,20,Annecy,Auvergne-Rhone-Alpes,Western Europe,France,2023-05-11
+288,Customer_0288,Female,27,Paris,Ile-de-France,Western Europe,France,2024-02-20
+289,Customer_0289,Male,34,Bergamo,Lombardy,Southern Europe,Italy,2023-05-28
+290,Customer_0290,Non-binary,41,Bonn,North Rhine-Westphalia,Central Europe,Germany,2024-04-02
+291,Customer_0291,Female,48,Casablanca,Casablanca-Settat,North Africa,Morocco,2023-01-29
+292,Customer_0292,Male,55,Potsdam,Berlin,Central Europe,Germany,2023-12-27
+293,Customer_0293,Non-binary,21,Bonn,North Rhine-Westphalia,Central Europe,Germany,2023-11-04
+294,Customer_0294,Female,28,Paris,Ile-de-France,Western Europe,France,2024-01-06
+295,Customer_0295,Male,35,Nice,Provence-Alpes-Cote d'Azur,Western Europe,France,2024-03-05
+296,Customer_0296,Non-binary,42,Annecy,Auvergne-Rhone-Alpes,Western Europe,France,2023-06-11
+297,Customer_0297,Female,49,Munich,Bavaria,Central Europe,Germany,2023-12-23
+298,Customer_0298,Male,56,Sale,Rabat-Sale-Kenitra,North Africa,Morocco,2023-12-06
+299,Customer_0299,Non-binary,22,Annecy,Auvergne-Rhone-Alpes,Western Europe,France,2023-03-02
+300,Customer_0300,Female,29,Madrid,Madrid,Southern Europe,Spain,2023-05-05

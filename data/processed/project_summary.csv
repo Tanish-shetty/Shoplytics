@@ -1,0 +1,13 @@
+metric,value
+source_dataset,maramsa/e-commerce-sales-and-customer-analytics-dataset
+total_rows_in_fact,2000
+completed_orders,695
+cancelled_orders,83
+returned_orders,83
+total_customers,267
+total_products,50
+total_revenue,284741.58
+total_profit,53643.61
+average_order_value,409.7
+profit_margin_percent,18.84
+repeat_customer_rate_percent,73.41
